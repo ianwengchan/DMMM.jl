@@ -1,0 +1,17 @@
+.DS_Store
+.julia/
+Manifest.toml
+coverage/
+*.cov
+*.jls
+*.bson
+*.jld
+*.jld2
+*.log
+*.pdf
+*.tex
+*.csv
+*.pkl
+*.pickle
+checkpoints/
+results/
